@@ -35,7 +35,7 @@ Para abrir y ejecutar los ejercicios, necesitarás el software adecuado:
 
 ## 🧑‍💻 Autor
 
-* **[Tu Nombre Completo]** ([Tu Nombre de Usuario de GitHub: Aitor03Fdez])
+* **Aitor Fernández de Marcos Salto** Aitor03Fdez
 
 ---
 
